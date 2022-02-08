@@ -190,8 +190,8 @@ export let tag_languajes = [
         pagina: "header",
         tipo: "inner",
         etiqueta: "menu-about-politicies",
-        esp: '<a id="menu-about-politicies"class="dropdown-item text-link-6"href="nosotros.html#politicas">Políticas de privacidad<i class="bx bxs-lock-open-alt"></i></a>',
-        eng: '<a id="menu-about-politicies"class="dropdown-item text-link-6"href="nosotros.html#politicas">Privacy Policies<i class="bx bxs-lock-open-alt"></i></a>',
+        esp: '<a id="menu-about-politicies" class="dropdown-item text-link-6" href="nosotros.html#politicas">Políticas de privacidad <i class="bx bxs-lock-open-alt"></i></a>',
+        eng: '<a id="menu-about-politicies" class="dropdown-item text-link-6" href="nosotros.html#politicas">Privacy Policies <i class="bx bxs-lock-open-alt"></i></a>',
     },
     {
         pagina: "header",
@@ -442,14 +442,14 @@ export let tag_languajes = [
         pagina: "footer",
         tipo: "inner",
         etiqueta: "footer-product-1",
-        esp: '<a id="footer-product-1" class="btn-9" href="productos.html#planes"><i class="bx bx-chevron-right"></i> Planes de ahorro </a><br /><br />',
+        esp: '<a id="footer-product-1" class="btn-9" href="productos.html#planes"><i class="bx bx-chevron-right"></i> Planes de ahorro </a>',
         eng: '<a id="footer-product-1" class="btn-9" href="productos.html#planes"><i class="bx bx-chevron-right"></i> Savings Plans </a>'
     },
     {
         pagina: "footer",
         tipo: "inner",
         etiqueta: "footer-product-2",
-        esp: '<a id="footer-product-2" class="btn-9" href="productos.html#tarjetas"><i class="bx bx-chevron-right"></i> Tarjetas</a><br /><br />',
+        esp: '<a id="footer-product-2" class="btn-9" href="productos.html#tarjetas"><i class="bx bx-chevron-right"></i> Tarjetas</a>',
         eng: '<a id="footer-product-2" class="btn-9" href="productos.html#tarjetas"><i class="bx bx-chevron-right"></i> Cards </a>'
     },
     {
